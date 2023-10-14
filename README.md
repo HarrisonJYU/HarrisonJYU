@@ -4,7 +4,7 @@ My name is Harrison. I work on improving user experiences of our physical world,
  
  📈 Current Data Scientist 🌃 Former Urban planner 
  
- 🌱 Intrigued by cities/architecture, the theaters of social actions. 
+ 🌱 Intrigued by all kinds of interactions, among humans, agents, nodes or sensors. 
 
  [email](yujinglun12@gmail.com) • [twitter](https://twitter.com/yujinglun) • [linkedin](https://www.linkedin.com/in/harrison-jinglun-yu/)
 
