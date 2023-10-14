@@ -1,5 +1,12 @@
-Hello world, I'm Harrison! 👋
+ 👋 __Hi there__! 
+ 
+My name is Harrison. I work on improving user experiences of our physical world, with AI and Data. I code on stuff, mostly quantitative, sometimes qualitative. Most projects you will find here are to learn something I didn't know before, to build something that would be helpful for others, and sometimes to capture essense of our times through .  
+ 
+ 📈 Current Data Scientist 🌃 Former Urban planner 
+ 
+ 🌱 Intrigued by cities/architecture, the theaters of social actions. 
 
+ [email](yujinglun12@gmail.com) • [twitter](https://twitter.com/yujinglun) • [linkedin](https://www.linkedin.com/in/harrison-jinglun-yu/)
 
 <!--
 **HarrisonJYU/HarrisonJYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
