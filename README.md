@@ -1,8 +1,8 @@
  👋 __Hi there__! 
  
-My name is Harrison. I work on improving user experiences of our physical world, with AI and Data. I code on stuff, mostly quantitative, sometimes qualitative. Most projects you will find here are to learn something I didn't know before, to build something that would be helpful for others, and sometimes to capture essense of our times through .  
+My name is Harrison. I work with AI, data, and code on improving our physical world. I build stuff, mostly quantitative, sometimes qualitative. Most projects you will find here are to learn something I didn't know before, to build something that would be helpful for others, or sometimes to visualize interesting stories of physical world.  
  
- 📈 Current Data Scientist 🌃 Former Urban planner 
+ 📊 Current Data Scientist 🌃 Former Urban planner 
  
  🌱 Intrigued by all kinds of interactions, among humans, agents, nodes or sensors. 
 
