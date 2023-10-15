@@ -4,7 +4,7 @@ My name is Harrison. I work with AI, data, and code on improving our physical wo
  
  📊 Current Data Scientist 🌃 Former Urban planner 
  
- 🌱 Intrigued by all kinds of interactions, among humans, agents, nodes or sensors. 
+ 🌱 Intrigued by all complex systems, like humans, agents, nodes or cities. 
 
  [email](yujinglun12@gmail.com) • [twitter](https://twitter.com/yujinglun) • [linkedin](https://www.linkedin.com/in/harrison-jinglun-yu/)
 
